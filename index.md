@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/62150946?s=400&u=40f0ce61114f9713907296a27e26d0892646dd47&v=4" height="50%" width="50%">    
+<img src="https://avatars.githubusercontent.com/u/62150946?s=400&u=40f0ce61114f9713907296a27e26d0892646dd47&v=4" align="left" height="25%" width="25%">    
 
 ## DARJYO Document Verification Announcement
 ### Important Notice Regarding DARJYO Document Authenticity
