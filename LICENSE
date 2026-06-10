@@ -1,0 +1,106 @@
+DARJYO Licence v1.3
+
+Copyright (c) 2026 DARJYO
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this Software, model weights, datasets, documentation, and associated
+materials (the “Software”), to use, copy, modify, merge, publish, distribute,
+and create derivative works of the Software, including for commercial,
+research, and educational purposes, subject to the following conditions:
+
+---
+
+1. Attribution Requirement (Mandatory)
+
+All use of the Software, whether in original or modified form, must include
+clear and visible attribution to organization DARJYO and author/developer Darshani Persadh(~persadian).
+
+Attribution must be included in at least one of the following:
+
+* Documentation or README files
+* Academic papers or technical publications
+* Model cards, dataset cards, or system descriptions
+* Product or service acknowledgements (where applicable)
+
+Required attribution text:
+
+- “Built by Darshani Persadh(~persadian) with DARJYO Technology”
+- “Powered by DARJYO Technology”
+
+Where technically possible, a reference link to the original repository or
+official model page must be included.
+
+---
+
+2. Citation Requirement (Research and Benchmark Use)
+
+Any academic, research, benchmarking, evaluation, or publication that uses,
+evaluates, fine-tunes, or references the Software must formally cite DARJYO.
+
+Suggested example citation format:
+
+DARSHANI PERSADH~persadian (2025)
+CropSeek-LLM: Agricultural Domain Language Model
+DARJYO Research Engineering
+Available at: https://huggingface.co/persadian/CropSeek-LLM
+
+Citation is considered a required condition for academic integrity and research use.
+
+---
+
+3. Redistribution and Derivative Works
+
+You are permitted to:
+
+* redistribute the Software
+* create derivative models
+* fine-tune or adapt the Software
+* integrate into commercial or non-commercial systems
+
+Provided that:
+
+* attribution remains intact
+* citation requirements are preserved in documentation and publications
+* the Software is not misrepresented as an independent or unrelated work
+
+---
+
+4. No False Authorship
+
+You may not claim authorship of the original Software or present it as
+independently created without reference to Darshani Persadh~persadian & DARJYO.
+
+---
+
+5. Reciprocal Knowledge Benefit (Reward Principle)
+
+Use of this Software is intended to create a reciprocal knowledge ecosystem.
+
+While not legally enforceable as payment, contributors, researchers, and
+organisations are encouraged to:
+
+* publish findings that acknowledge DArshani Persadh~persadian & DARJYO contributions
+* share derivative improvements where possible
+* maintain attribution in downstream systems
+
+This principle exists to ensure that credit flows back to the origin of the
+work across academic and commercial ecosystems.
+
+---
+
+6. Preservation of Licence
+
+All copies or substantial portions of the Software must include this licence
+text in full.
+
+---
+
+7. Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
